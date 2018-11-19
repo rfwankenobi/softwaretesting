@@ -1,0 +1,2112 @@
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 23:29:08: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 23:29:08: Wrong user detected on parking spot #315
+2018-10-13 23:38:16: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 23:29:08: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 23:29:08: Wrong user detected on parking spot #315
+2018-10-13 23:38:16: Wrong user detected on parking spot #315
+2018-10-13 23:45:25: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 23:29:08: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 23:29:08: Wrong user detected on parking spot #315
+2018-10-13 23:38:16: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 23:29:08: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 23:29:08: Wrong user detected on parking spot #315
+2018-10-13 23:38:16: Wrong user detected on parking spot #315
+2018-10-13 23:45:25: Wrong user detected on parking spot #315
+2018-10-13 23:47:18: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 23:29:08: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 23:29:08: Wrong user detected on parking spot #315
+2018-10-13 23:38:16: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 23:29:08: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:36:07: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 11:51:22: Wrong user detected on parking spot #312
+2018-10-13 11:52:53: Wrong user detected on parking spot #312
+2018-10-13 11:55:28: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
+2018-10-13 16:18:20: Wrong user detected on parking spot #120
+2018-10-13 22:01:13: Wrong user detected on parking spot #312
+2018-10-13 23:27:37: Wrong user detected on parking spot #315
+2018-10-13 23:29:08: Wrong user detected on parking spot #315
+2018-10-13 23:38:16: Wrong user detected on parking spot #315
+2018-10-13 23:45:25: Wrong user detected on parking spot #315
+2018-10-13 23:47:18: Wrong user detected on parking spot #315
+2018-10-13 23:47:51: User with ID:2233432 has reported an stolen ID. The car with the same ID is parked on spot #312
