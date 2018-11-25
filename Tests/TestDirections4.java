@@ -30,12 +30,14 @@ public class TestDirections4 extends TestDirections4Helper
 	public void testMain(Object[] args) 
 	{
 		startApp("PantherLot_Main");
+		sleep(2);
 		startApp("PantherLot_Security");
+		sleep(2);
 		
 		// Frame: 
 		securityDisplayFrame().move(atPoint(672,13));
 		startApp("PantherLot_Spot");
-		
+		sleep(2);
 		// 
 		input().inputChars("139");
 		ok().click();

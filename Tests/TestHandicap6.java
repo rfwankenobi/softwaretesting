@@ -30,12 +30,13 @@ public class TestHandicap6 extends TestHandicap6Helper
 	public void testMain(Object[] args) 
 	{
 		startApp("PantherLot_Main");
+		sleep(2);
 		startApp("PantherLot_Security");
-		
+		sleep(2);
 		// Frame: 
 		securityDisplayFrame().move(atPoint(759,25));
 		startApp("PantherLot_Spot");
-		
+		sleep(2);
 		// 
 		input().inputChars("666");
 		ok().click();

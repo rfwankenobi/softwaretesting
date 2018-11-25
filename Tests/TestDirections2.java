@@ -30,12 +30,13 @@ public class TestDirections2 extends TestDirections2Helper
 	public void testMain(Object[] args) 
 	{
 		startApp("PantherLot_Main");
+		sleep(2);
 		startApp("PantherLot_Security");
-		
+		sleep(2);
 		// Frame: 
 		securityDisplayFrame().move(atPoint(693,24));
 		startApp("PantherLot_Spot");
-		
+		sleep(2);
 		// 
 		pleaseEnterTheParkingSpotNumbe().click(atPoint(24,11));
 		input().inputChars("226");

@@ -32,12 +32,13 @@ public class TestHandicap2 extends TestHandicap1Helper
 	public void testMain(Object[] args) 
 	{
 		startApp("PantherLot_Main");
+		sleep(2);
 		startApp("PantherLot_Security");
-		
+		sleep(2);
 		// Frame: 
 		securityDisplayFrame().move(atPoint(677,91));
 		startApp("PantherLot_Spot");
-		
+		sleep(2);
 		// 
 		pleaseEnterTheParkingSpotNumbe().click(atPoint(32,4));
 		input().inputChars("121");

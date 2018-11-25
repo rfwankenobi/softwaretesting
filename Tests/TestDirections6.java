@@ -30,12 +30,14 @@ public class TestDirections6 extends TestDirections6Helper
 	public void testMain(Object[] args) 
 	{
 		startApp("PantherLot_Main");
+		sleep(2);
 		startApp("PantherLot_Security");
+		sleep(2);
 		
 		// Frame: 
 		securityDisplayFrame().move(atPoint(693,20));
 		startApp("PantherLot_Spot");
-		
+		sleep(2);
 		// 
 		pleaseEnterTheParkingSpotNumbe().click();
 		pleaseEnterTheParkingSpotNumbe2().click(atPoint(67,3));

@@ -30,12 +30,13 @@ public class TestDirections3 extends TestDirections3Helper
 	public void testMain(Object[] args) 
 	{
 		startApp("PantherLot_Main");
+		sleep(2);
 		startApp("PantherLot_Security");
-		
+		sleep(2);
 		// Frame: 
 		securityDisplayFrame().move(atPoint(705,19));
 		startApp("PantherLot_Spot");
-		
+		sleep(2);
 		// 
 		pleaseEnterTheParkingSpotNumbe().dragToScreenPoint(
                                         atPoint(25,11), jOptionPane().getScreenPoint(atPoint(77,51)));
