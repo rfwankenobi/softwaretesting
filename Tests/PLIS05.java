@@ -30,8 +30,8 @@ public class PLIS05 extends PLIS05Helper
 	public void testMain(Object[] args) 
 	{
 		//To reuse script for multiple test runs
-		String parkNr = "315";
-		String userID = "2223432";
+		String parkNr = dpString("spotID");
+		String userID = dpString("userID");
 		boolean sunny = false;
 		
 		// Opening the app
@@ -84,7 +84,7 @@ public class PLIS05 extends PLIS05Helper
 		parkingNotification().waitForExistence(
                                         10.0, 0.2);
 		sleep(1);
-		parkingNotification().performTest(duplicateIDVP());
+		parkingNotification().performTest( vpManual("plis05vp1", dpString("expectedMessage1")) );
 		
 		sleep(1);
 		
@@ -96,7 +96,7 @@ public class PLIS05 extends PLIS05Helper
 			
 			// Not needed for current test case
 			sleep(1);
-			duplicateIDNotification().performTest(securityCallVP());
+			duplicateIDNotification().performTest( vpManual("plis05vp2", dpString("expectedMessage2")) );
 			ok2().click();
 		}
 		else

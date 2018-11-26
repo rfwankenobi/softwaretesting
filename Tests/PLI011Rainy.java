@@ -19,36 +19,7 @@ import com.ibm.rational.test.ft.object.interfaces.sapwebportal.*;
  */
 public class PLI011Rainy extends PLI011RainyHelper
 {
-	/**
-	 * The setup method. Creates the environment.
-	 * Starts PantherLot Main, PantherLot Security.
-	 */
-	public void setUp()
-	{
-		startApp("PantherLot_Main");
-		sleep(2.0);
-		startApp("PantherLot_Security");
-		sleep(2.0);
-		
-		//Move the window: 
-		securityDisplayFrame().click(atPoint(544,73));
-		securityDisplayFrame().move(atPoint(611,16));
-	}
-	
-	/**
-	 * This method opens a Parking Terminal.
-	 * 
-	 * @param spotId - The ID of the parking spot being opened
-	 */
-	public void openParkingTerminal( String spotId )
-	{
-		startApp("PantherLot_Spot");
-		sleep(2.0);
-		pleaseEnterTheParkingSpotNumbe().click(atPoint(104,12));
-		ParkingTerminalInput().inputChars(spotId);
-		ok().click();
-	}
-	
+
 	/**
 	 * Test Case IDs  : PLI011-STRainy001, PLI011-STRainy002, PLI011-STRainy003
 	 * Purposes       : 
@@ -127,13 +98,13 @@ public class PLI011Rainy extends PLI011RainyHelper
 		next().click();
 		next2().click();
 		
-		if ( userID.equals("2233432") )
+		if ( userID.equals(dpString("firstRunVar")) )
 		{
 			cancel().click();
-			pantherLotInteractive().performTest( HomeScreenTextVP() );
-			pleaseEnterID().performTest( HomeScreenSecondTextVP() );
+			pantherLotInteractive().performTest( vpManual("pli011manualvp1", dpString("expectedMessage1")) );
+			pleaseEnterID().performTest( vpManual("pli011manualvp2", dpString("expectedMessage2")) );
 		}
-		else if ( userID.equals("1663314") )
+		else if ( userID.equals(dpString("secondRunVar")) )
 		{
 			resetMainTerminal();
 		}
@@ -144,11 +115,41 @@ public class PLI011Rainy extends PLI011RainyHelper
 			
 			//Click the cancel button
 			cancel().click();
-			pantherLotInteractive().performTest( HomeScreenTextVP() );
-			pleaseEnterID().performTest( HomeScreenSecondTextVP() );
+			pantherLotInteractive().performTest( vpManual("pli011manualvp3", dpString("expectedMessage1")) );
+			pleaseEnterID().performTest( vpManual("pli011manualvp4", dpString("expectedMessage2")) );
 		}
 		
 		tearDown();
+	}
+	
+	/**
+	 * The setup method. Creates the environment.
+	 * Starts PantherLot Main, PantherLot Security.
+	 */
+	public void setUp()
+	{
+		startApp("PantherLot_Main");
+		sleep(2.0);
+		startApp("PantherLot_Security");
+		sleep(2.0);
+		
+		//Move the window: 
+		securityDisplayFrame().click(atPoint(544,73));
+		securityDisplayFrame().move(atPoint(611,16));
+	}
+	
+	/**
+	 * This method opens a Parking Terminal.
+	 * 
+	 * @param spotId - The ID of the parking spot being opened
+	 */
+	public void openParkingTerminal( String spotId )
+	{
+		startApp("PantherLot_Spot");
+		sleep(2.0);
+		pleaseEnterTheParkingSpotNumbe().click(atPoint(104,12));
+		ParkingTerminalInput().inputChars(spotId);
+		ok().click();
 	}
 	
 	/**

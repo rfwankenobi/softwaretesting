@@ -143,7 +143,7 @@ public class PLI012Sunny extends PLI012SunnyHelper
 		jTextField().click();
 		spotDisplayFrame().inputChars( userID );
 		scanID().click();
-		ParkingSpotMessage().performTest( ParkingSpotExpectedMessageVP() );
+		ParkingSpotMessage().performTest( vpManual("pli012manual", dpString("PLI012ExpectedMessage")) );
 
 		tearDown( userID );
 	}

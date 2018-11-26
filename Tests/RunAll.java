@@ -60,9 +60,9 @@ public class RunAll extends RunAllHelper
 		callScript("TestHandicap4");
 		callScript("TestHandicap5");
 		callScript("TestHandicap6");
-		//callScript("Implementation001");
-		//callScript("Implementation002");
-		//callScript("Implementation003");
+		callScript("Implementation001");
+		callScript("Implementation002");
+		callScript("Implementation003");
 	}
 }
 

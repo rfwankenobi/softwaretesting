@@ -174,7 +174,7 @@ public class PLI012Rainy extends PLI012RainyHelper
 		spotDisplayFrame().inputChars( userID );
 		
 		//Last exceptional rainy case
-		if ( userID.equals("1654333") )
+		if ( userID.equals(dpString("expectedUser1")) )
 		{
 			spotDisplayFrame().close();
 			//Close the rest
@@ -188,13 +188,13 @@ public class PLI012Rainy extends PLI012RainyHelper
 			scanID().click();
 			
 			//Verifications
-			if ( userID.equals("2233432") )
+			if ( userID.equals(dpString("expectedUser2")) )
 			{
-				wrongParkingSpot().performTest( WrongParkingSpotMichelleVP() );
+				wrongParkingSpot().performTest( vpManual("manualvp1pli012", dpString("expectedMessage")) );
 			}
-			else if ( userID.equals("1663314") )
+			else if ( userID.equals(dpString("expectedUser3")) )
 			{
-				assert(verifyContains("Wrong user detected on parking spot #102"));
+				assert(verifyContains( dpString("expectedMessage") ));
 			}
 
 			tearDown( userID );
